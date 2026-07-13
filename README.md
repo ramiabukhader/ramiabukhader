@@ -7,6 +7,7 @@ I work across Appian architecture and development, local AI systems, retrieval-a
 ## Selected public projects
 
 - [local-ai-rag-lab](https://github.com/ramiabukhader/local-ai-rag-lab) — a local-first RAG retrieval-evaluation starter with reproducible metrics and audit logging
+- [secretscan-lite](https://github.com/ramiabukhader/secretscan-lite) — an offline Rust CLI that detects and redacts likely accidentally committed credentials
 - [chunkstat](https://github.com/ramiabukhader/chunkstat) — a Go CLI for directory file, line, extension, and size statistics
 - [appian-integration-mock-server](https://github.com/ramiabukhader/appian-integration-mock-server) — a .NET 8 API for testing Appian integration scenarios with fictional data
 - [appian-devops-toolkit](https://github.com/ramiabukhader/appian-devops-toolkit) — dependency-free PowerShell utilities for Appian release and environment checks
@@ -15,7 +16,7 @@ I work across Appian architecture and development, local AI systems, retrieval-a
 
 ## Current technologies
 
-Appian · C# and .NET · Python · Go · PowerShell · PostgreSQL and SQL · GitHub Actions · local AI and RAG
+Appian · C# and .NET · Python · Go · Rust · PowerShell · PostgreSQL and SQL · GitHub Actions · local AI and RAG
 
 ## Contact
 
