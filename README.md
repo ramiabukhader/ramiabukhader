@@ -1,21 +1,22 @@
-# Hi, I'm Rami 👋
+# Rami Abukhader
 
-Full-stack software engineer building **AI-native products end to end** — from model to interface. I like owning the whole stack: data, models, backend, and the UI people actually touch.
+Senior Appian Developer and banking digital-transformation specialist focused on reliable enterprise workflows, integrations, and delivery automation.
 
-### 🛠️ What I work with
-- **Languages:** C#/.NET · Python · JavaScript/TypeScript · SQL · C++
-- **Focus:** AI/ML · computer vision · data science · desktop & web apps
-- **Building:** AI-native tools and my own products, shipped end to end
+I work across Appian architecture and development, local AI systems, retrieval-augmented generation (RAG), agents, automation, service integrations, and databases. My public repositories favor practical examples that run locally, use fictional data, and document their operational limits.
 
-### 📌 Selected public work
-- [**AutoDrone**](https://github.com/ramiabukhader/AutoDrone) — autonomous drone control in C++
-- [**Computer_vision**](https://github.com/ramiabukhader/Computer_vision) — computer vision experiments and models
-- [**graph-partitioning**](https://github.com/ramiabukhader/graph-partitioning) — graph partitioning & optimization
-- [**Hands-On-Genetic-Algorithms-with-Python**](https://github.com/ramiabukhader/Hands-On-Genetic-Algorithms-with-Python) — evolutionary computation in Python
+## Selected public projects
 
-### 📊 GitHub
-![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiabukhader&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiabukhader&layout=compact&hide_border=true&langs_count=8)
+- [local-ai-rag-lab](https://github.com/ramiabukhader/local-ai-rag-lab) — a local-first RAG retrieval-evaluation starter with reproducible metrics and audit logging
+- [chunkstat](https://github.com/ramiabukhader/chunkstat) — a Go CLI for directory file, line, extension, and size statistics
+- [appian-integration-mock-server](https://github.com/ramiabukhader/appian-integration-mock-server) — a .NET 8 API for testing Appian integration scenarios with fictional data
+- [appian-devops-toolkit](https://github.com/ramiabukhader/appian-devops-toolkit) — dependency-free PowerShell utilities for Appian release and environment checks
+- [banking-workflow-reference](https://github.com/ramiabukhader/banking-workflow-reference) — a PostgreSQL reference model for case-management workflows and audit trails
+- [appian-enterprise-patterns](https://github.com/ramiabukhader/appian-enterprise-patterns) — vendor-neutral architecture patterns for Appian enterprise applications
 
-### 📫 Reach me
-- Email: **rami.khaderr@gmail.com**
+## Current technologies
+
+Appian · C# and .NET · Python · Go · PowerShell · PostgreSQL and SQL · GitHub Actions · local AI and RAG
+
+## Contact
+
+[GitHub profile](https://github.com/ramiabukhader)
