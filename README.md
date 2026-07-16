@@ -45,4 +45,4 @@ I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to archit
 
 ## 📫 Connect
 
-📍 Ramallah, Palestine &nbsp;·&nbsp; ✉️ [rami.khaderr@gmail.com](mailto:rami.khaderr@gmail.com)
+📍 Ramallah, Palestine &nbsp;·&nbsp; ✉️ [rami.khaderr@gmail.com](mailto:rami.khaderr@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/rami-abukhader/)
