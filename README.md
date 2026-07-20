@@ -5,7 +5,7 @@
 
 </div>
 
-I'm Rami — founder of **LexOS**, co-founder of **Falcon**, and a Senior Appian Developer & Technical Lead in enterprise banking. I ship full-stack products end-to-end by directing AI coding agents — **business and engineering, together**.
+I'm Rami — founder of **LexOS**, co-founder of **Falcon**, and CTO of Appexai.net & Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end by directing AI coding agents — **business and engineering, together**.
 
 ## 🏗 What I'm building
 
