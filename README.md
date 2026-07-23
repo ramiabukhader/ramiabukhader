@@ -12,7 +12,7 @@ I'm Rami — founder of **LexOS**, co-founder of **Falcon**, and CTO of Appexai.
 |  |  |  |
 |---|---|---|
 | **LexOS** | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![private beta](https://img.shields.io/badge/private%20beta-2e7d5b?style=flat-square) |
-| **Falcon** | Licensing & commercial control plane behind LexOS. | ![in development](https://img.shields.io/badge/in%20development-b7791f?style=flat-square) |
+| **Falcon** | Commercial control plane behind LexOS — offline-verifiable signed licensing, subscriptions & admin console. | ![private beta](https://img.shields.io/badge/private%20beta-2e7d5b?style=flat-square) |
 | **Personal local AI** | A local model tuned to how I actually work. | ![exploring](https://img.shields.io/badge/exploring-6b7280?style=flat-square) |
 
 ## 🧠 How I build with AI
@@ -41,7 +41,7 @@ I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to archit
 
 ## 🧭 Now
 
-`Shipping LexOS V1` · `migrated to .NET 10` · `building Falcon's licensing plane`
+`LexOS V1 feature-complete on .NET 10` · `Falcon licensing engine in private beta` · `wiring LexOS ↔ Falcon entitlements`
 
 ## 📫 Connect
 
