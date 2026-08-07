@@ -1,18 +1,17 @@
 <div align="center">
 
 <!-- Animated header — typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
-![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=B08D4C&center=true&vCenter=true&width=680&height=50&lines=Founder+of+LexOS+%C2%B7+Co-founder+of+Falcon;I+ship+full+products+by+directing+AI+agents;Senior+Appian+Developer+%C2%B7+Enterprise+Banking)
+![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=B08D4C&center=true&vCenter=true&width=680&height=50&lines=Founder+of+LexOS;I+ship+full+products+by+directing+AI+agents;Senior+Appian+Developer+%C2%B7+Enterprise+Banking)
 
 </div>
 
-I'm Rami — founder of **LexOS**, co-founder of **Falcon**, Full Stack Development Manager at **Appexai**, and a Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end by directing AI coding agents — **business and engineering, together**.
+I'm Rami — founder of **LexOS**, Full Stack Development Manager at **Appexai**, and a Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end by directing AI coding agents — **business and engineering, together**.
 
 ## 🏗 What I'm building
 
 |  |  |  |
 |---|---|---|
 | **LexOS** | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![private beta](https://img.shields.io/badge/private%20beta-2e7d5b?style=flat-square) |
-| **Falcon** | Commercial control plane behind LexOS — offline-verifiable signed licensing, subscriptions & admin console. | ![live](https://img.shields.io/badge/live-2e7d5b?style=flat-square) |
 | **Appexai** | Full-stack platform I lead — public site, admin console, and messaging automation on self-managed infrastructure. | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
 
 ## 🧠 How I build with AI
@@ -49,7 +48,7 @@ Small, self-contained utilities I actually use. The systems I spend my time on a
 
 ## 🧭 Now
 
-`LexOS V1 feature-complete on .NET 10` · `Falcon licensing engine live` · `wiring LexOS ↔ Falcon entitlements`
+`LexOS V1 feature-complete on .NET 10` · `hardening the release & installer pipeline` · `Arabic-first RTL end to end`
 
 ## 📫 Connect
 
