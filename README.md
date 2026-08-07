@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header — typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
-![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=B08D4C&center=true&vCenter=true&width=680&height=50&lines=Founder+of+LexOS;I+ship+full+products+by+directing+AI+agents;Senior+Appian+Developer+%C2%B7+Enterprise+Banking)
+<!-- Animated header — single line, typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
+![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=B08D4C&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
 
 </div>
 
