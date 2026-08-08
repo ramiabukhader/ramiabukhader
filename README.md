@@ -46,6 +46,17 @@ Small, self-contained utilities I actually use. The systems I spend my time on a
 - [**banking-workflow-reference**](https://github.com/ramiabukhader/banking-workflow-reference) — PostgreSQL reference model for case-management workflows and audit trails
 - [**appian-devops-toolkit**](https://github.com/ramiabukhader/appian-devops-toolkit) — dependency-free PowerShell utilities for Appian release & environment checks
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ramiabukhader&amp;background=00000000&amp;border=30363d&amp;stroke=30363d&amp;ring=b08d4c&amp;fire=b08d4c&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3&amp;currStreakLabel=b08d4c&amp;sideLabels=9aa4b2&amp;dates=6e7681&amp;border_radius=8">
+  <img alt="GitHub contribution streak for ramiabukhader" src="https://streak-stats.demolab.com?user=ramiabukhader&amp;background=00000000&amp;border=e6e0d6&amp;stroke=e6e0d6&amp;ring=b08d4c&amp;fire=b08d4c&amp;currStreakNum=1f2933&amp;sideNums=1f2933&amp;currStreakLabel=b08d4c&amp;sideLabels=5b6470&amp;dates=8a929c&amp;border_radius=8">
+</picture>
+
+</div>
+
 ## 🧭 Now
 
 `LexOS V1 feature-complete on .NET 10` · `hardening the release & installer pipeline` · `Arabic-first RTL end to end`
