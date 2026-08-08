@@ -5,7 +5,7 @@
 
 </div>
 
-I'm Rami — founder of **LexOS**, Full Stack Development Manager at **Appexai**, and a Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end by directing AI coding agents — **business and engineering, together**.
+I'm Rami — founder of **LexOS**, Full Stack Development Manager at **Appexai**, and a Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end manually or by directing AI coding agents — **business and engineering, together**.
 
 ## 🏗 What I'm building
 
