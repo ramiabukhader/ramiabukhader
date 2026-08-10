@@ -38,13 +38,6 @@ Enterprise banking process engineering — user and entitlement management, case
 ![Appian BPM](https://img.shields.io/badge/Appian%20BPM-3a4a60?style=flat-square&logo=appian&logoColor=b08d4c)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-3a4a60?style=flat-square&logo=anthropic&logoColor=b08d4c)
 
-## 📂 Public tools
-
-Small, self-contained utilities I actually use. The systems I spend my time on are private.
-
-- [**secretscan-lite**](https://github.com/ramiabukhader/secretscan-lite) — offline Rust CLI that finds and redacts credentials before they reach a commit
-- [**banking-workflow-reference**](https://github.com/ramiabukhader/banking-workflow-reference) — PostgreSQL reference model for case-management workflows and audit trails
-- [**appian-devops-toolkit**](https://github.com/ramiabukhader/appian-devops-toolkit) — dependency-free PowerShell utilities for Appian release & environment checks
 
 ## 📊 GitHub Stats
 
