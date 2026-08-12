@@ -39,16 +39,6 @@ Enterprise banking process engineering — user and entitlement management, case
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-3a4a60?style=flat-square&logo=anthropic&logoColor=b08d4c)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ramiabukhader&amp;background=00000000&amp;border=30363d&amp;stroke=30363d&amp;ring=b08d4c&amp;fire=b08d4c&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3&amp;currStreakLabel=b08d4c&amp;sideLabels=9aa4b2&amp;dates=6e7681&amp;border_radius=8">
-  <img alt="GitHub contribution streak for ramiabukhader" src="https://streak-stats.demolab.com?user=ramiabukhader&amp;background=00000000&amp;border=e6e0d6&amp;stroke=e6e0d6&amp;ring=b08d4c&amp;fire=b08d4c&amp;currStreakNum=1f2933&amp;sideNums=1f2933&amp;currStreakLabel=b08d4c&amp;sideLabels=5b6470&amp;dates=8a929c&amp;border_radius=8">
-</picture>
-
-</div>
 
 ## 🧭 Now
 
