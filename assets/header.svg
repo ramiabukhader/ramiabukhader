@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="226" viewBox="0 0 1000 226" role="img" aria-label="Rami Abukhader — Founder of LexOS  ·  Full-Stack Development Manager">
-  <title>Rami Abukhader — Founder of LexOS  ·  Full-Stack Development Manager</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="226" viewBox="0 0 1000 226" role="img" aria-label="Rami Abukhader — Turning hard rules into systems people can rely on">
+  <title>Rami Abukhader — Turning hard rules into systems people can rely on</title>
   <defs>
     <linearGradient id="body" x1="0" y1="0" x2="1" y2="0.9">
       <stop offset="0%" stop-color="#1b2a44"/>
@@ -21,6 +21,6 @@
 
   <g font-family="'IBM Plex Sans','Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
     <text x="500" y="95" font-size="76" font-weight="700" letter-spacing="1" fill="#ffffff">Rami Abukhader</text>
-    <text x="500" y="136" font-size="18" font-weight="400" letter-spacing="1.8" fill="#e8d6ae">Founder of LexOS  ·  Full-Stack Development Manager</text>
+    <text x="500" y="136" font-size="18" font-weight="400" letter-spacing="1.8" fill="#e8d6ae">Turning hard rules into systems people can rely on</text>
   </g>
 </svg>
