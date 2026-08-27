@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Rami Abukhader — Founder of LexOS · Full-Stack Development Manager">
+<img src="assets/header.svg" width="100%" alt="Rami Abukhader">
 
 <!-- Animated tagline — typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
 ![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=B08D4C&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
