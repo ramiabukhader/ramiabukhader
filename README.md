@@ -15,14 +15,14 @@
 
 ---
 
-I'm Rami — founder of **LexOS**, Full Stack Development Manager at **Appexai**, and a Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end manually or by directing AI coding agents — **business and engineering, together**.
+I'm Rami. I build **LexOS**, a legal office operating system, and engineer enterprise banking processes on Appian. Whether I write the code or direct AI agents to write it, I own the result — **business and engineering, together**.
 
 ## 🏗 What I'm building
 
 |  |  |  |
 |---|---|---|
 | **trylexos.co** | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
-| **Appexai.net** | Full-stack platform I lead — public site, admin console, and messaging automation on self-managed infrastructure. | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
+| **Appexai.net** | Full-stack platform I led — public site, admin console, and messaging automation on self-managed infrastructure. | ![past work](https://img.shields.io/badge/past%20work-3a4a60?style=flat-square) |
 
 ## 🧠 How I build with AI
 
