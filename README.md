@@ -21,8 +21,8 @@ I'm Rami — founder of **LexOS**, Full Stack Development Manager at **Appexai**
 
 |  |  |  |
 |---|---|---|
-| **LexOS** | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![private beta](https://img.shields.io/badge/private%20beta-2e7d5b?style=flat-square) |
-| **Appexai** | Full-stack platform I lead — public site, admin console, and messaging automation on self-managed infrastructure. | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
+| **trylexos.co** | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/private%20beta-2e7d5b?style=flat-square) |
+| **Appexai.net** | Full-stack platform I lead — public site, admin console, and messaging automation on self-managed infrastructure. | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
 
 ## 🧠 How I build with AI
 
