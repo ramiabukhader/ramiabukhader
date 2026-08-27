@@ -1,9 +1,19 @@
 <div align="center">
 
-<!-- Animated header — single line, typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
+<img src="assets/header.svg" width="100%" alt="Rami Abukhader — Founder of LexOS · Full-Stack Development Manager">
+
+<!-- Animated tagline — typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
 ![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=B08D4C&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b08d4c?style=for-the-badge&labelColor=1b2a44&logo=linkedin&logoColor=b08d4c)](https://www.linkedin.com/in/rami-abukhader/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20hello-b08d4c?style=for-the-badge&labelColor=1b2a44&logo=gmail&logoColor=b08d4c)](mailto:rami.khaderr@gmail.com)
+&nbsp;
+![Based in Ramallah, Palestine](https://img.shields.io/badge/Based%20in-Ramallah,%20Palestine-4a6b96?style=for-the-badge&labelColor=1b2a44&logo=googlemaps&logoColor=b08d4c)
+
 </div>
+
+---
 
 I'm Rami — founder of **LexOS**, Full Stack Development Manager at **Appexai**, and a Senior Appian Developer in enterprise banking. I ship full-stack products end-to-end manually or by directing AI coding agents — **business and engineering, together**.
 
