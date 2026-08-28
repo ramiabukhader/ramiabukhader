@@ -9,7 +9,7 @@
 
 ---
 
-I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software for work that gets audited: five years of it inside banks, and now as my own product. **Business and engineering, together.**
+I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software for work that gets audited: six years of it inside banks, and now as my own product. **Business and engineering, together.**
 
 ## 🏗 What I'm building
 
@@ -19,7 +19,7 @@ I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software f
 - Arabic-first and right-to-left, built that way rather than translated into it.
 - Everything logged, every permission enforced, so the office can prove what happened.
 
-## 🏦 Five years of banking systems
+## 🏦 Six years of banking systems
 
 **Bank of Palestine** — Appian Developer & Technical Lead, 2022–present. Merchant onboarding, centralised outward transfers, core ticketing, ministry deposits, bulk transfers and user management. Led platform upgrades and mentored the developers behind me.
 
