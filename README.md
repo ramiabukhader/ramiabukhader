@@ -21,15 +21,11 @@ I'm Rami. I build software for work that gets audited — five years of it insid
 
 ## 🏗 What I'm building
 
-### [trylexos.co](https://trylexos.co) &nbsp; ![in production](https://img.shields.io/badge/in%20production-396a74?style=flat-square)
-
-A hosted operating system for legal offices in Palestine, Arabic-first and RTL-native. Designed, built and shipped solo — and a working law office keeps its real case records in it.
+**[trylexos.co](https://trylexos.co)** — a hosted operating system for legal offices in Palestine. Arabic-first, RTL-native, designed and built solo. A working law office keeps its real case records in it.
 
 - **Isolated at the database level.** One office cannot reach another's data; PostgreSQL enforces that, not the interface.
 - **Built for the audit.** Immutable logging of who did what and when, with permissions the server enforces.
 - **Arabic-first.** Built right-to-left, not translated into it.
-
-`108 migrations` · `193 test files` · `React/TS` · `ASP.NET Core` · `PostgreSQL`
 
 ## 🧠 How I build with AI
 
