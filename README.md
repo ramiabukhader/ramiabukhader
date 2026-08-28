@@ -15,7 +15,7 @@ I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software f
 
 **[trylexos.co](https://trylexos.co)** — the system a law office runs on. Live, with a real practice working in it.
 
-- Clients, finance, documents, receipts, reports, calendars and more.
+- Clients, cases, hearings, finance, documents, receipts, reports, calendars and more.
 - Arabic-first and right-to-left, built that way rather than translated into it.
 - Everything logged, every permission enforced, so the office can prove what happened.
 
