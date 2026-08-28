@@ -2,14 +2,16 @@
 
 <img src="assets/header.svg" width="100%" alt="Rami Abukhader">
 
-<!-- Animated tagline — typing SVG in brass (#d04428), IBM Plex Sans to echo LexOS -->
+<!-- Animated tagline — typing SVG in vermillion (#d04428), IBM Plex Sans to echo LexOS -->
 ![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=D04428&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d04428?style=for-the-badge&labelColor=163136&logo=linkedin&logoColor=d04428)](https://www.linkedin.com/in/rami-abukhader/)
+[![LinkedIn — connect](assets/badge-linkedin.svg)](https://www.linkedin.com/in/rami-abukhader/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20hello-d04428?style=for-the-badge&labelColor=163136&logo=gmail&logoColor=d04428)](mailto:rami.khaderr@gmail.com)
-&nbsp;
-![Based in Ramallah, Palestine](https://img.shields.io/badge/Based%20in-Ramallah,%20Palestine-396a74?style=for-the-badge&labelColor=163136&logo=googlemaps&logoColor=d04428)
+[![Email rami.khaderr@gmail.com](assets/badge-email.svg)](mailto:rami.khaderr@gmail.com)
+
+```
+rami.khaderr@gmail.com
+```
 
 </div>
 

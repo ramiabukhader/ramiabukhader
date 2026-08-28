@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="34" viewBox="0 0 186 34" role="img" aria-label="LinkedIn — connect">
+  <title>LinkedIn — connect</title>
+  <clipPath id="r"><rect width="186" height="34" rx="4"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="92" height="34" fill="#163136"/>
+    <rect x="92" width="94" height="34" fill="#d04428"/>
+  </g>
+  <g font-family="'IBM Plex Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <text x="46" y="22" letter-spacing="1.4">LINKEDIN</text>
+    <text x="139" y="22" letter-spacing="1.4">CONNECT</text>
+  </g>
+</svg>

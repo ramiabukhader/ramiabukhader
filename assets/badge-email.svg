@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245" height="34" viewBox="0 0 245 34" role="img" aria-label="Email rami.khaderr@gmail.com">
+  <title>Email rami.khaderr@gmail.com</title>
+  <clipPath id="r"><rect width="245" height="34" rx="4"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="69" height="34" fill="#163136"/>
+    <rect x="69" width="176" height="34" fill="#d04428"/>
+  </g>
+  <g font-family="'IBM Plex Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <text x="34.5" y="22" letter-spacing="1.4">EMAIL</text>
+    <text x="157" y="22" letter-spacing="0.3">rami.khaderr@gmail.com</text>
+  </g>
+</svg>
