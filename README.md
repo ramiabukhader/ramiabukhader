@@ -13,11 +13,11 @@ I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software f
 
 ## 🏗 What I'm building
 
-**[trylexos.co](https://trylexos.co)** — a hosted operating system for legal offices in Palestine. Arabic-first, RTL-native, designed and built solo. A working law office keeps its real case records in it.
+**[trylexos.co](https://trylexos.co)** — the system a law office runs on. Live, with a real practice working in it.
 
-- **Runs the whole office.** Cases and hearings, clients, execution and collection, multi-currency finance, documents and reports — one system, not five.
-- **Built for the audit.** A record of who did what and when that holds up when someone questions it.
-- **Arabic-first.** Built right-to-left, not translated into it.
+- Cases, hearings, clients, collections, finance, documents and reports — one system instead of five.
+- Arabic-first and right-to-left, built that way rather than translated into it.
+- Everything logged, every permission enforced, so the office can prove what happened.
 
 ## 🏦 Five years of banking systems
 
