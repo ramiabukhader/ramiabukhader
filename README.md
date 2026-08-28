@@ -21,11 +21,11 @@ I'm Rami. I build software for work that gets audited — five years of it insid
 
 ## 🧠 How I build with AI
 
-I direct **Claude Code** and **OpenAI Codex** to architect, build, test and ship production software. LexOS was delivered solo this way — agent orchestration is how I work, not an add-on.
+**Claude Code** and **OpenAI Codex** write most of the code. LexOS was shipped solo this way.
 
-- **Spec before code.** Every feature starts as a written decision. The agent implements the spec; it doesn't invent it.
-- **Guardrails, not vibes.** Lint-enforced design tokens, e2e tests gating the UI, security and review passes before merge — so agent output can't quietly drift.
-- **The business decisions stay mine.** Pricing, licensing, jurisdiction and legal-source rules are mine; the code only enforces them.
+- **I write the spec.** Agents implement decisions; they don't make them.
+- **Tests decide what merges.** Not vibes, and not the agent's opinion of its own work.
+- **The judgment stays mine.** Pricing, licensing and the legal rules are mine to set.
 
 ## 🏦 Five years of banking systems
 
