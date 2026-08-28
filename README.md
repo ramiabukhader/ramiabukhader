@@ -21,9 +21,17 @@ I'm Rami. I build **LexOS**, a legal office operating system, and engineer enter
 
 ## 🏗 What I'm building
 
-|  |  |  |
-|---|---|---|
-| [**trylexos.co**](https://trylexos.co) | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/in%20production-396a74?style=flat-square) |
+### [trylexos.co](https://trylexos.co) &nbsp; ![in production](https://img.shields.io/badge/in%20production-396a74?style=flat-square)
+
+An operating system for legal offices — Arabic-first, right-to-left end to end. Designed, built and shipped solo.
+
+- **Multi-tenant, with RBAC enforced server-side.** Offices are isolated from one another and permissions are checked on the server, not hidden in the UI.
+- **Immutable audit logging.** A record of who did what and when that holds up when someone questions it.
+- **Offline-verifiable signed licensing.** Activation that never has to call home.
+- **Arabic-first RTL.** The interface is built right-to-left, not translated into it.
+- **Shipped, not demoed.** Windows installer, release pipeline, and a full end-to-end suite behind it.
+
+`React/TS` · `ASP.NET Core` · `PostgreSQL` · `.NET 10`
 
 ## 🧠 How I build with AI
 
@@ -37,7 +45,7 @@ I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to archit
 
 ## 🏦 Where I go deep
 
-Enterprise banking process engineering — user and entitlement management, case handling, compliance and AML flows, integrations between core systems, and the audit trails regulators actually ask for. That domain is why LexOS has real RBAC and immutable audit logging instead of a login page and good intentions.
+Enterprise banking process engineering — user and entitlement management, case handling, compliance and AML flows, integrations between core systems, and the audit trails regulators actually ask for. That domain is why LexOS has real RBAC and immutable audit logging instead of a login page and good intentions. In banking, "we'll add permissions later" is not a sentence anyone gets to say.
 
 ## ⚙️ Stack
 
