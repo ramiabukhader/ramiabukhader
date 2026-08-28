@@ -9,7 +9,8 @@
 
 ---
 
-I'm Rami. I build software for work that gets audited — five years of it inside banks, and now as my own product. Whether I write the code myself or direct AI agents to write it, I own the result: **business and engineering, together**.
+I'm Rami. Onwer of **[trylexos.co](https://trylexos.co)** 
+I build software for work that gets audited — five years of it inside banks, and now as my own product. Whether I write the code myself or direct AI agents to write it, I own the result: **business and engineering, together**.
 
 ## 🏗 What I'm building
 
