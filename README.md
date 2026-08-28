@@ -17,7 +17,7 @@ rami.khaderr@gmail.com
 
 ---
 
-I'm Rami. I build **LexOS**, a legal office operating system, and engineer enterprise banking processes on Appian. Whether I write the code or direct AI agents to write it, I own the result — **business and engineering, together**.
+I'm Rami. I build software for work that gets audited — five years of it inside banks, and now as my own product. Whether I write the code myself or direct AI agents to write it, I own the result: **business and engineering, together**.
 
 ## 🏗 What I'm building
 
@@ -43,9 +43,26 @@ I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to archit
 - **Sessions end in handoffs.** Each work session closes with a written brief, so the next one starts with context instead of archaeology.
 - **The business decisions stay mine.** Pricing, licensing model, jurisdiction and legal-source rules are decided by me — the code only enforces them.
 
-## 🏦 Where I go deep
+## 🏦 Five years of banking systems
 
-Enterprise banking process engineering — user and entitlement management, case handling, compliance and AML flows, integrations between core systems, and the audit trails regulators actually ask for. That domain is why LexOS has real RBAC and immutable audit logging instead of a login page and good intentions. In banking, "we'll add permissions later" is not a sentence anyone gets to say.
+**Appian Developer & Technical Lead — Bank of Palestine** · May 2022 – present
+
+Technical lead on merchant onboarding, centralised outward transfers, the core ticketing system and ministry deposit applications. Bulk transfers, e-channel transactions and user management, delivered against bank deadlines. Led on-premise Appian platform upgrades with minimal downtime, kept environments and Tomcat healthy in production, and mentored the developers coming up behind me.
+
+**Appian Developer — Quds Bank** · Sept 2021 – May 2022
+
+Cheque book requests and customer information updates, integrated with Oracle and SOA services through Web APIs.
+
+Also built a centralised e-payments application covering Sharia-compliant, property tax and multi-ministry transactions.
+
+`Appian Certified Senior Developer` · `Appian Certified Associate Developer` · both 2023
+
+That is where the standards in LexOS come from. In banking, "we'll add permissions later" is not a sentence anyone gets to say.
+
+## 🎓 Background
+
+- **MSc Computer Science** — Mälardalen University, Sweden · major in Data Science
+- **BSc Computer Science** — Al-Quds University, Palestine
 
 ## ⚙️ Stack
 
