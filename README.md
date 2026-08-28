@@ -9,7 +9,7 @@
 
 ---
 
-I'm Rami — owner and sole author of **[trylexos.co](https://trylexos.co)**. I build software for work that gets audited: five years of it inside banks, and now as my own product. **Business and engineering, together.**
+I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software for work that gets audited: five years of it inside banks, and now as my own product. **Business and engineering, together.**
 
 ## 🏗 What I'm building
 
