@@ -2,14 +2,14 @@
   <title>Rami Abukhader — Turning hard rules into systems people can rely on</title>
   <defs>
     <linearGradient id="body" x1="0" y1="0" x2="1" y2="0.9">
-      <stop offset="0%" stop-color="#1b2a44"/>
-      <stop offset="100%" stop-color="#4a6b96"/>
+      <stop offset="0%" stop-color="#163136"/>
+      <stop offset="100%" stop-color="#396a74"/>
     </linearGradient>
     <clipPath id="inner"><path d="M0,156 C41.67,156 83.33,167.43 125,180 C166.67,192.57 208.33,204 250,204 C291.67,204 333.33,192.57 375,180 C416.67,167.43 458.33,156 500,156 C541.67,156 583.33,167.43 625,180 C666.67,192.57 708.33,204 750,204 C791.67,204 833.33,192.57 875,180 C916.67,167.43 958.33,156 1000,156 L1000,0 L0,0 Z"/></clipPath>
   </defs>
 
   <!-- trailing wave: behind the body, crossing out from under it -->
-  <path d="M0,196 C41.67,209.61 83.33,222 125,222 C166.67,222 208.33,209.61 250,196 C291.67,182.39 333.33,170 375,170 C416.67,170 458.33,182.39 500,196 C541.67,209.61 583.33,222 625,222 C666.67,222 708.33,209.61 750,196 C791.67,182.39 833.33,170 875,170 C916.67,170 958.33,182.39 1000,196 L1000,0 L0,0 Z" fill="#b08d4c" opacity="0.95"/>
+  <path d="M0,196 C41.67,209.61 83.33,222 125,222 C166.67,222 208.33,209.61 250,196 C291.67,182.39 333.33,170 375,170 C416.67,170 458.33,182.39 500,196 C541.67,209.61 583.33,222 625,222 C666.67,222 708.33,209.61 750,196 C791.67,182.39 833.33,170 875,170 C916.67,170 958.33,182.39 1000,196 L1000,0 L0,0 Z" fill="#d04428" opacity="0.95"/>
 
   <!-- main body -->
   <path d="M0,156 C41.67,156 83.33,167.43 125,180 C166.67,192.57 208.33,204 250,204 C291.67,204 333.33,192.57 375,180 C416.67,167.43 458.33,156 500,156 C541.67,156 583.33,167.43 625,180 C666.67,192.57 708.33,204 750,204 C791.67,204 833.33,192.57 875,180 C916.67,167.43 958.33,156 1000,156 L1000,0 L0,0 Z" fill="url(#body)"/>
@@ -21,6 +21,6 @@
 
   <g font-family="'IBM Plex Sans','Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
     <text x="500" y="95" font-size="76" font-weight="700" letter-spacing="1" fill="#ffffff">Rami Abukhader</text>
-    <text x="500" y="136" font-size="18" font-weight="400" letter-spacing="1.8" fill="#e8d6ae">Turning hard rules into systems people can rely on</text>
+    <text x="500" y="136" font-size="18" font-weight="400" letter-spacing="1.8" fill="#e4cdc8">Turning hard rules into systems people can rely on</text>
   </g>
 </svg>

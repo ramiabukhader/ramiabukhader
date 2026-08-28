@@ -2,14 +2,14 @@
 
 <img src="assets/header.svg" width="100%" alt="Rami Abukhader">
 
-<!-- Animated tagline — typing SVG in brass (#b08d4c), IBM Plex Sans to echo LexOS -->
-![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=B08D4C&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
+<!-- Animated tagline — typing SVG in brass (#d04428), IBM Plex Sans to echo LexOS -->
+![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=D04428&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b08d4c?style=for-the-badge&labelColor=1b2a44&logo=linkedin&logoColor=b08d4c)](https://www.linkedin.com/in/rami-abukhader/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d04428?style=for-the-badge&labelColor=163136&logo=linkedin&logoColor=d04428)](https://www.linkedin.com/in/rami-abukhader/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20hello-b08d4c?style=for-the-badge&labelColor=1b2a44&logo=gmail&logoColor=b08d4c)](mailto:rami.khaderr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-d04428?style=for-the-badge&labelColor=163136&logo=gmail&logoColor=d04428)](mailto:rami.khaderr@gmail.com)
 &nbsp;
-![Based in Ramallah, Palestine](https://img.shields.io/badge/Based%20in-Ramallah,%20Palestine-4a6b96?style=for-the-badge&labelColor=1b2a44&logo=googlemaps&logoColor=b08d4c)
+![Based in Ramallah, Palestine](https://img.shields.io/badge/Based%20in-Ramallah,%20Palestine-396a74?style=for-the-badge&labelColor=163136&logo=googlemaps&logoColor=d04428)
 
 </div>
 
@@ -21,7 +21,7 @@ I'm Rami. I build **LexOS**, a legal office operating system, and engineer enter
 
 |  |  |  |
 |---|---|---|
-| [**trylexos.co**](https://trylexos.co) | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
+| [**trylexos.co**](https://trylexos.co) | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/in%20production-396a74?style=flat-square) |
 
 ## 🧠 How I build with AI
 
@@ -39,13 +39,13 @@ Enterprise banking process engineering — user and entitlement management, case
 
 ## ⚙️ Stack
 
-![.NET · C#](https://img.shields.io/badge/.NET%20%C2%B7%20C%23-3a4a60?style=flat-square&logo=dotnet&logoColor=b08d4c)
-![TypeScript](https://img.shields.io/badge/TypeScript-3a4a60?style=flat-square&logo=typescript&logoColor=b08d4c)
-![React](https://img.shields.io/badge/React-3a4a60?style=flat-square&logo=react&logoColor=b08d4c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3a4a60?style=flat-square&logo=postgresql&logoColor=b08d4c)
-![Python](https://img.shields.io/badge/Python-3a4a60?style=flat-square&logo=python&logoColor=b08d4c)
-![Appian BPM](https://img.shields.io/badge/Appian%20BPM-3a4a60?style=flat-square&logo=appian&logoColor=b08d4c)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-3a4a60?style=flat-square&logo=anthropic&logoColor=b08d4c)
+![.NET · C#](https://img.shields.io/badge/.NET%20%C2%B7%20C%23-325e67?style=flat-square&logo=dotnet&logoColor=d04428)
+![TypeScript](https://img.shields.io/badge/TypeScript-325e67?style=flat-square&logo=typescript&logoColor=d04428)
+![React](https://img.shields.io/badge/React-325e67?style=flat-square&logo=react&logoColor=d04428)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-325e67?style=flat-square&logo=postgresql&logoColor=d04428)
+![Python](https://img.shields.io/badge/Python-325e67?style=flat-square&logo=python&logoColor=d04428)
+![Appian BPM](https://img.shields.io/badge/Appian%20BPM-325e67?style=flat-square&logo=appian&logoColor=d04428)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-325e67?style=flat-square&logo=anthropic&logoColor=d04428)
 
 
 
