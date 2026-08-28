@@ -23,19 +23,19 @@ I'm Rami. I build software for work that gets audited — five years of it insid
 
 ### [trylexos.co](https://trylexos.co) &nbsp; ![in production](https://img.shields.io/badge/in%20production-396a74?style=flat-square)
 
-An operating system for legal offices — Arabic-first, right-to-left end to end. Designed, built and shipped solo.
+A hosted operating system for legal offices in Palestine — Arabic-first, right-to-left throughout. Designed, built and shipped solo, and now holding a working law office's real case records.
 
-- **Multi-tenant, with RBAC enforced server-side.** Offices are isolated from one another and permissions are checked on the server, not hidden in the UI.
+- **Multi-tenant, isolated in the database.** Row-level security in PostgreSQL, with the application role running without DDL rights and unable to bypass RLS — so a bug in the app still cannot reach another office's data.
 - **Immutable audit logging.** A record of who did what and when that holds up when someone questions it.
-- **Offline-verifiable signed licensing.** Activation that never has to call home.
 - **Arabic-first RTL.** The interface is built right-to-left, not translated into it.
-- **Shipped, not demoed.** Windows installer, release pipeline, and a full end-to-end suite behind it.
+- **108 PostgreSQL migrations** behind a schema that covers cases, hearings, clients, execution and collection, multi-currency office finance, documents and permissions.
+- **193 test files**, xUnit across a Domain/Application/Infrastructure/API split and Playwright over the interface.
 
-`React/TS` · `ASP.NET Core` · `PostgreSQL` · `.NET 10`
+`React/TS` · `ASP.NET Core` · `PostgreSQL` · `Docker`
 
 ## 🧠 How I build with AI
 
-I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to architect, build, test and ship production software end-to-end. **LexOS was delivered solo this way**: multi-tenant backend, Arabic-first RTL interface, offline-verifiable signed licensing, Windows installer, full e2e suite. Agent orchestration is how I work, not an add-on.
+I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to architect, build, test and ship production software end-to-end. **LexOS was delivered solo this way**: a hosted multi-tenant backend, an Arabic-first RTL interface, 108 database migrations and 193 test files. Agent orchestration is how I work, not an add-on.
 
 - **Spec before code.** Every feature starts as a written decision — scope, constraints, done-criteria. The agent implements the spec; it doesn't invent it.
 - **Guardrails, not vibes.** Design tokens are lint-enforced, e2e tests gate the UI, security and review passes run before anything merges — so agent output can't quietly drift.
@@ -78,4 +78,4 @@ That is where the standards in LexOS come from. In banking, "we'll add permissio
 
 ## 🧭 Now
 
-`LexOS V1 feature-complete on .NET 10` · `hardening the release & installer pipeline` · `Arabic-first RTL end to end`
+`LexOS running online for a live law office` · `V2 interface rollout` · `Arabic-first RTL end to end`
