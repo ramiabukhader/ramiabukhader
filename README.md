@@ -5,14 +5,6 @@
 <!-- Animated tagline — typing SVG in vermillion (#d04428), IBM Plex Sans to echo LexOS -->
 ![typing header](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=2500&color=D04428&center=true&vCenter=true&width=820&height=50&lines=I+build+systems+for+domains+where+being+wrong+is+expensive.)
 
-[![LinkedIn — connect](assets/badge-linkedin.svg)](https://www.linkedin.com/in/rami-abukhader/)
-&nbsp;
-[![Email rami.khaderr@gmail.com](assets/badge-email.svg)](mailto:rami.khaderr@gmail.com)
-
-```
-rami.khaderr@gmail.com
-```
-
 </div>
 
 ---
@@ -23,8 +15,8 @@ I'm Rami. I build software for work that gets audited — five years of it insid
 
 **[trylexos.co](https://trylexos.co)** — a hosted operating system for legal offices in Palestine. Arabic-first, RTL-native, designed and built solo. A working law office keeps its real case records in it.
 
-- **Isolated at the database level.** One office cannot reach another's data; PostgreSQL enforces that, not the interface.
-- **Built for the audit.** Immutable logging of who did what and when, with permissions the server enforces.
+- **Runs the whole office.** Cases and hearings, clients, execution and collection, multi-currency finance, documents and reports — one system, not five.
+- **Built for the audit.** A record of who did what and when that holds up when someone questions it.
 - **Arabic-first.** Built right-to-left, not translated into it.
 
 ## 🧠 How I build with AI
