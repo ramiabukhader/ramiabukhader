@@ -23,46 +23,35 @@ I'm Rami. I build software for work that gets audited — five years of it insid
 
 ### [trylexos.co](https://trylexos.co) &nbsp; ![in production](https://img.shields.io/badge/in%20production-396a74?style=flat-square)
 
-A hosted operating system for legal offices in Palestine — Arabic-first, right-to-left throughout. Designed, built and shipped solo, and now holding a working law office's real case records.
+A hosted operating system for legal offices in Palestine, Arabic-first and RTL-native. Designed, built and shipped solo — and a working law office keeps its real case records in it.
 
-- **Multi-tenant, isolated in the database.** Row-level security in PostgreSQL, with the application role running without DDL rights and unable to bypass RLS — so a bug in the app still cannot reach another office's data.
-- **Immutable audit logging.** A record of who did what and when that holds up when someone questions it.
-- **Arabic-first RTL.** The interface is built right-to-left, not translated into it.
-- **108 PostgreSQL migrations** behind a schema that covers cases, hearings, clients, execution and collection, multi-currency office finance, documents and permissions.
-- **193 test files**, xUnit across a Domain/Application/Infrastructure/API split and Playwright over the interface.
+- **Isolated at the database level.** One office cannot reach another's data; PostgreSQL enforces that, not the interface.
+- **Built for the audit.** Immutable logging of who did what and when, with permissions the server enforces.
+- **Arabic-first.** Built right-to-left, not translated into it.
 
-`React/TS` · `ASP.NET Core` · `PostgreSQL` · `Docker`
+`108 migrations` · `193 test files` · `React/TS` · `ASP.NET Core` · `PostgreSQL`
 
 ## 🧠 How I build with AI
 
-I direct AI coding agents — **Claude Code** and **OpenAI Codex** — to architect, build, test and ship production software end-to-end. **LexOS was delivered solo this way**: a hosted multi-tenant backend, an Arabic-first RTL interface, 108 database migrations and 193 test files. Agent orchestration is how I work, not an add-on.
+I direct **Claude Code** and **OpenAI Codex** to architect, build, test and ship production software. LexOS was delivered solo this way — agent orchestration is how I work, not an add-on.
 
-- **Spec before code.** Every feature starts as a written decision — scope, constraints, done-criteria. The agent implements the spec; it doesn't invent it.
-- **Guardrails, not vibes.** Design tokens are lint-enforced, e2e tests gate the UI, security and review passes run before anything merges — so agent output can't quietly drift.
-- **Right agent, right job.** Claude Code for architecture and multi-file surgery; Codex for parallel, well-scoped tasks. They run side by side, not in sequence.
-- **Sessions end in handoffs.** Each work session closes with a written brief, so the next one starts with context instead of archaeology.
-- **The business decisions stay mine.** Pricing, licensing model, jurisdiction and legal-source rules are decided by me — the code only enforces them.
+- **Spec before code.** Every feature starts as a written decision. The agent implements the spec; it doesn't invent it.
+- **Guardrails, not vibes.** Lint-enforced design tokens, e2e tests gating the UI, security and review passes before merge — so agent output can't quietly drift.
+- **The business decisions stay mine.** Pricing, licensing, jurisdiction and legal-source rules are mine; the code only enforces them.
 
 ## 🏦 Five years of banking systems
 
-**Appian Developer & Technical Lead — Bank of Palestine** · May 2022 – present
+**Bank of Palestine** — Appian Developer & Technical Lead, 2022–present. Merchant onboarding, centralised outward transfers, core ticketing, ministry deposits, bulk transfers and user management. Led platform upgrades and mentored the developers behind me.
 
-Technical lead on merchant onboarding, centralised outward transfers, the core ticketing system and ministry deposit applications. Bulk transfers, e-channel transactions and user management, delivered against bank deadlines. Led on-premise Appian platform upgrades with minimal downtime, kept environments and Tomcat healthy in production, and mentored the developers coming up behind me.
+**Quds Bank** — Appian Developer, 2021–2022. Cheque book requests and customer information updates, integrated with Oracle and SOA services.
 
-**Appian Developer — Quds Bank** · Sept 2021 – May 2022
-
-Cheque book requests and customer information updates, integrated with Oracle and SOA services through Web APIs.
-
-Also built a centralised e-payments application covering Sharia-compliant, property tax and multi-ministry transactions.
-
-`Appian Certified Senior Developer` · `Appian Certified Associate Developer` · both 2023
-
-That is where the standards in LexOS come from. In banking, "we'll add permissions later" is not a sentence anyone gets to say.
+In banking, "we'll add permissions later" is not a sentence anyone gets to say. That is where the standards in LexOS come from.
 
 ## 🎓 Background
 
-- **MSc Computer Science** — Mälardalen University, Sweden · major in Data Science
+- **MSc Computer Science** — Mälardalen University, Sweden
 - **BSc Computer Science** — Al-Quds University, Palestine
+- **Appian Certified Senior Developer** · **Certified Associate Developer** — 2023
 
 ## ⚙️ Stack
 
