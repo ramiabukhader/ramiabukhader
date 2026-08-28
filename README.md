@@ -19,10 +19,6 @@ I'm Rami — owner of **[trylexos.co](https://trylexos.co)**. I build software f
 - **Built for the audit.** A record of who did what and when that holds up when someone questions it.
 - **Arabic-first.** Built right-to-left, not translated into it.
 
-## 🧠 How I work
-
-I design the system, then direct AI coding agents to build it — and I stay answerable for everything that ships. It is how one person delivers software a business runs on.
-
 ## 🏦 Five years of banking systems
 
 **Bank of Palestine** — Appian Developer & Technical Lead, 2022–present. Merchant onboarding, centralised outward transfers, core ticketing, ministry deposits, bulk transfers and user management. Led platform upgrades and mentored the developers behind me.
