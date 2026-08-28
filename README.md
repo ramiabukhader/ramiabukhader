@@ -21,8 +21,7 @@ I'm Rami. I build **LexOS**, a legal office operating system, and engineer enter
 
 |  |  |  |
 |---|---|---|
-| **trylexos.co** | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
-| **Appexai.net** | Full-stack platform I led — public site, admin console, and messaging automation on self-managed infrastructure. | ![past work](https://img.shields.io/badge/past%20work-3a4a60?style=flat-square) |
+| [**trylexos.co**](https://trylexos.co) | Legal office operating system — multi-tenant, RBAC, audit logging. Arabic-first. `React/TS · ASP.NET Core · PostgreSQL` | ![in production](https://img.shields.io/badge/in%20production-2e7d5b?style=flat-square) |
 
 ## 🧠 How I build with AI
 
@@ -53,7 +52,3 @@ Enterprise banking process engineering — user and entitlement management, case
 ## 🧭 Now
 
 `LexOS V1 feature-complete on .NET 10` · `hardening the release & installer pipeline` · `Arabic-first RTL end to end`
-
-## 📫 Connect
-
-📍 Ramallah, Palestine &nbsp;·&nbsp; ✉️ [rami.khaderr@gmail.com](mailto:rami.khaderr@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/rami-abukhader/)
