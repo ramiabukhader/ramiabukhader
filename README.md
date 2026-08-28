@@ -33,7 +33,7 @@ In banking, "we'll add permissions later" is not a sentence anyone gets to say. 
 
 ## 🎓 Background
 
-- **MSc Computer Science** — Mälardalen University, Sweden
+- **MSc Computer Science** — Mälardalen University, Sweden · Data Science
 - **BSc Computer Science** — Al-Quds University, Palestine
 - **Appian Certified Senior Developer** · **Certified Associate Developer** — 2023
 
@@ -51,7 +51,7 @@ In banking, "we'll add permissions later" is not a sentence anyone gets to say. 
 
 ## 🧭 Now
 
-`LexOS running online for a live law office` · `V2 interface rollout` · `Arabic-first RTL end to end`
+`LexOS running online for a live law office` · `Arabic-first RTL end to end`
 
 ## 📬 Reach out if
 
