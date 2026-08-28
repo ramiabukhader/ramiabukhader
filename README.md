@@ -9,8 +9,7 @@
 
 ---
 
-I'm Rami. Onwer of **[trylexos.co](https://trylexos.co)** 
-I build software for work that gets audited — five years of it inside banks, and now as my own product. Whether I write the code myself or direct AI agents to write it, I own the result: **business and engineering, together**.
+I'm Rami — owner and sole author of **[trylexos.co](https://trylexos.co)**. I build software for work that gets audited: five years of it inside banks, and now as my own product. **Business and engineering, together.**
 
 ## 🏗 What I'm building
 
@@ -20,13 +19,9 @@ I build software for work that gets audited — five years of it inside banks, a
 - **Built for the audit.** A record of who did what and when that holds up when someone questions it.
 - **Arabic-first.** Built right-to-left, not translated into it.
 
-## 🧠 How I build with AI
+## 🧠 How I work
 
-**Claude Code** and **OpenAI Codex** write most of the code. LexOS was shipped solo this way.
-
-- **I write the spec.** Agents implement decisions; they don't make them.
-- **Tests decide what merges.** Not vibes, and not the agent's opinion of its own work.
-- **The judgment stays mine.** Pricing, licensing and the legal rules are mine to set.
+I design the system, then direct AI coding agents to build it — and I stay answerable for everything that ships. It is how one person delivers software a business runs on.
 
 ## 🏦 Five years of banking systems
 
@@ -57,3 +52,9 @@ In banking, "we'll add permissions later" is not a sentence anyone gets to say. 
 ## 🧭 Now
 
 `LexOS running online for a live law office` · `V2 interface rollout` · `Arabic-first RTL end to end`
+
+## 📬 Reach out if
+
+- **you need help** — Appian, banking process work, or getting a product out of one person's hands.
+- **you need something built** — tell me what it has to do, and what it must never get wrong.
+- **you want to learn how** — all of this was built solo. I'm glad to show you.
