@@ -49,8 +49,8 @@ In banking, "we'll add permissions later" is not a sentence anyone gets to say. 
 
 `LexOS running online for a live law office` · `Arabic-first RTL end to end`
 
-## 📬 Reach out if
+## 📬 Write to me if
 
-- **you need help** — Appian, banking process work, or getting a product out of one person's hands.
-- **you need something built** — tell me what it has to do, and what it must never get wrong.
-- **you want to learn how** — all of this was built solo. I'm glad to show you.
+- **you're stuck** — Appian, banking workflows, compliance that has to hold. I've spent six years in those rooms.
+- **you're building something** — tell me what it must do and what it must never get wrong, and I'll tell you straight whether it can be done.
+- **you want to build it yourself** — one person really can ship a product a business depends on. That isn't a slogan. Ask me how.
