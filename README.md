@@ -47,7 +47,7 @@ In banking, "we'll add permissions later" is not a sentence anyone gets to say. 
 
 ## 🧭 Now
 
-`LexOS running online for a live law office` · `Arabic-first RTL end to end`
+`Trylex running online for a live law office` · `Arabic-first RTL end to end`
 
 ## 📬 Write to me if
 
